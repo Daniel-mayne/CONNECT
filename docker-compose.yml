@@ -9,4 +9,5 @@ services:
       MYSQL_ROOT_PASSWORD: 'connect'
       MYSQL_DATABASE: 'connect'
     ports:
-      - '3306:3306'
+      - '3307:3306'
+ 
